@@ -1,0 +1,5 @@
+name: HackServ
+version: '${project.version}'
+main: ua.limefu.hackserv.HackServ
+authors: [ LimeFu ]
+description: Hack!
